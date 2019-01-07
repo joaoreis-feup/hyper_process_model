@@ -5,9 +5,9 @@ This repository contains the full implementation of the algorithm Hyper-Process 
 
 This algorithm is used in the following publications: 
 
-"Reis, J., Gonçalves, G., & Link, N. (2017, October). Meta-process modeling methodology for process model generation in intelligent manufacturing. In Industrial Electronics Society, IECON 2017-43rd Annual Conference of the IEEE (pp. 3396-3402). IEEE."
-
 "Reis, Joao, and Gil Gonçalves. "Hyper-Process Model: A Zero-Shot Learning algorithm for Regression Problems based on Shape Analysis." arXiv preprint arXiv:1810.10330 (2018)." Download: https://arxiv.org/abs/1810.10330
+
+"Reis, J., Gonçalves, G., & Link, N. (2017, October). Meta-process modeling methodology for process model generation in intelligent manufacturing. In Industrial Electronics Society, IECON 2017-43rd Annual Conference of the IEEE (pp. 3396-3402). IEEE."
 
 # How to run the algorithm?
 
