@@ -21,4 +21,4 @@ The program writes all the results in a .txt file where a set of hyperparameters
 
 
 
-For more details about the algorithm implementation, please read the afore mentioned publications about the Hyper-Process Model
+For more details about the algorithm implementation, please read the afore mentioned publications about the Hyper-Process Model.
