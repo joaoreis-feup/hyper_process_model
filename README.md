@@ -1,4 +1,4 @@
-# Zero-Shot Learning (ZSL) - Hyper Process Model
+# Zero-Shot Learning (ZSL) - Hyper-Process Model
 
 
 This repository contains the full implementation of the algorithm Hyper-Process Model (HPM) using as example a set of curves from Beta Distribution. Contrary to all the available and most known algorithms for ZSL, this algorithm was specifically designed for regression problems and not classification, which, up-to-now, makes this algorithm unique. 
